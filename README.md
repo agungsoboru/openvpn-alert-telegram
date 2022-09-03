@@ -6,6 +6,7 @@ openvpn-login-alert-telegram
 
 log /var/log/openvpn.log #tambakan
 
+jalankan
 
 
 ![image](https://github.com/agungsoboru/openvpn-alert-telegram/blob/main/Screenshot%20(71).png)
