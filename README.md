@@ -12,3 +12,9 @@ jalankan
 ![image](https://github.com/agungsoboru/openvpn-alert-telegram/blob/main/Screenshot%20(71).png)
 
 ![image](https://github.com/agungsoboru/openvpn-alert-telegram/blob/main/Capture.PNG)
+
+# lampiran
+
+![image](
+
+![image](
