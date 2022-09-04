@@ -2,9 +2,9 @@
 openvpn-login-alert-telegram
 
 
-#tambahkan config di /etc/openvpn/openvpn.conf
+#tambahkan config openvpn di /etc/openvpn/openvpn.conf
 
-log /var/log/openvpn.log #tambakan
+log /var/log/openvpn.log #tambahkan ini
 
 jalankan
 
